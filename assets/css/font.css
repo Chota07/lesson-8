@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "regular";
+    src: url(../fonts/HelveticaNeueLight.woff) format("woff");
+    src: url(../fonts/HelveticaNeueLight.woff2) format("woff2");
+    src: url(../fonts/HelveticaNeueLt.ttf) format("truetype");
+
+}
+@font-face {
+    font-family: "bold";
+    src: url(../fonts/HelveticaNeueBold.woff) format("woff");
+    src: url(../fonts/HelveticaNeueBold.woff2) format("woff2");
+    src: url(../fonts/Helvetica\ Neu\ Bold.ttf) format("truetype");
+}
